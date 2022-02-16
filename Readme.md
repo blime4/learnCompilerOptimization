@@ -19,13 +19,14 @@
 
 ## 其他博客
 + https://lulaoshi.info/gpu/intro
-+ https://face2ai.com/program-blog/#GPU编程（CUDA）
++ https://face2ai.com/program-blog/#GPU编程（CUDA）             【推荐】
 + http://cs.boisestate.edu/~alark/thrust_intro/presentation.html#slide9
 + https://cloud.tencent.com/developer/ask/84172
 
 ## B站
 
-+ https://www.bilibili.com/video/BV16b4y1E74f
++ https://www.bilibili.com/video/BV16b4y1E74f                   【推荐】
++ https://www.bilibili.com/video/BV1XR4y1x7rJ
 
 
 # 其他
