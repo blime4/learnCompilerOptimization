@@ -29,10 +29,25 @@
 + https://www.bilibili.com/video/BV1XR4y1x7rJ
 
 
-# 其他
+## 其他
 
 + https://mp.weixin.qq.com/s/aFMhVkNIfycut5Mmguv0bQ·
 
+
+# Learn Eigen
+
+## 官网
++ http://eigen.tuxfamily.org/index.php?title=Main_Page
+
+## 知乎
+
++ https://zhuanlan.zhihu.com/p/36706885
++ https://zhuanlan.zhihu.com/p/36772345
++ 
+
+## github
+
++ https://github.com/qixianyu-buaa/EigenChineseDocument
 
 
 
