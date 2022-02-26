@@ -49,5 +49,11 @@
 
 + https://github.com/qixianyu-buaa/EigenChineseDocument
 
+## YouTube
+
++ 【超入门, 但干货不多】https://www.youtube.com/watch?v=XmtNr1TuO-E&ab_channel=AleksandarHaber
++ 【更加入门，干货不多】https://www.youtube.com/watch?v=LAVGLTHXmnE&list=PLmRMlmkU1NoR1mQa6sJb7Eaahby2km7js&ab_channel=RoboTechs
++ 
+
 
 
