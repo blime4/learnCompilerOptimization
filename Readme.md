@@ -25,8 +25,9 @@
 
 ## B站
 
-+ https://www.bilibili.com/video/BV16b4y1E74f                   【推荐】
-+ https://www.bilibili.com/video/BV1XR4y1x7rJ
++ [【推荐】【并行计算】CUDA在现代C++中如何运用？看这一个就够了！](https://www.bilibili.com/video/BV16b4y1E74f)
++ [gpu微架构 后面听不懂了](https://www.bilibili.com/video/BV1XR4y1x7rJ)
++ [蒙特卡洛家的树 CUDA编程合集](https://space.bilibili.com/37270391/channel/seriesdetail?sid=1454805)
 
 
 ## 其他
