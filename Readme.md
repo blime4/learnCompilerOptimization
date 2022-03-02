@@ -59,3 +59,13 @@
 
 
 
+# 其他小工具的学习
+
+## pytest
++ https://www.osgeo.cn/pytest/contents.html
+
+
+## gdb
++ [《100个gdb小技巧》](https://wizardforcel.gitbooks.io/100-gdb-tips/content/)
+
+
