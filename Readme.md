@@ -60,7 +60,15 @@
 
 # Learn AI Compiler
 
-+ TVM
+## Learn TVM
+### 官网
++ https://tvm.apache.org/
++ 
+### 知乎
++ [深入理解TVM：Object家族](https://zhuanlan.zhihu.com/p/362281073)
++ [TVM之Tensor数据结构解读](https://zhuanlan.zhihu.com/p/341257418)
++ [TVM之设计模式解读（一）--visitor模式](https://zhuanlan.zhihu.com/p/341334406)
+
 + LLVM
 + TC
 
