@@ -89,3 +89,8 @@
 + https://www.cnblogs.com/coderfenghc/tag/cmake/
 
 
+## 数学基础
++ [机器学习-数学基础](https://www.bilibili.com/video/BV1Sq4y1y7og)
++ [数之道](https://www.bilibili.com/video/BV1tf4y1C7B3)
+
+
