@@ -29,6 +29,8 @@
 + [gpu微架构 后面听不懂了](https://www.bilibili.com/video/BV1XR4y1x7rJ)
 + [蒙特卡洛家的树 CUDA编程合集](https://space.bilibili.com/37270391/channel/seriesdetail?sid=1454805)
 + [爱学习的阿噜 cuda编程从入门到入土](https://space.bilibili.com/1219049799/channel/collectiondetail?sid=51545)
++ [CMU 15-418 并行体系结构与编程](https://www.bilibili.com/video/av48153629/)
++ [复旦大学陈迟晓《计算机与智能处理器体系结构 AI-Core and RISC Architecture》Spring 2020](https://www.bilibili.com/video/BV1ff4y1X7kP)
 
 
 ## 其他
