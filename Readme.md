@@ -81,4 +81,9 @@
 ## gdb
 + [《100个gdb小技巧》](https://wizardforcel.gitbooks.io/100-gdb-tips/content/)
 
+## cmake
++ [CMake菜谱（CMake Cookbook中文版）](https://www.bookstack.cn/read/CMake-Cookbook/README.md)
++ [CMake Reference Documentation](https://cmake.org/cmake/help/latest/)
++ 
+
 
